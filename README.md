@@ -7,3 +7,5 @@ The main aim of this project is to develop a file-entry based currency convertor
 - [Turbo C++](https://developerinsider.co/download-turbo-c-for-windows-7-8-8-1-and-windows-10-32-64-bit-full-screen/) compiler and interface
 - Download the project, compile and run code.cpp.
 ## Sample Window
+
+![demo](demo1.gif)
